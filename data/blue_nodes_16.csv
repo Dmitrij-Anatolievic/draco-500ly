@@ -1,0 +1,17 @@
+node,x_norm,y_norm,description,detection_method
+B01,0.316,0.889,top apex (head),automatic chromatic analysis
+B02,0.532,0.779,left shoulder high,automatic chromatic analysis
+B03,0.532,0.757,left shoulder low,automatic chromatic analysis
+B04,0.445,0.694,upper left body,automatic chromatic analysis
+B05,0.664,0.626,upper right body,automatic chromatic analysis
+B06,0.487,0.618,central node,automatic chromatic analysis
+B07,0.186,0.557,left flank high,automatic chromatic analysis
+B08,0.199,0.519,left flank low,automatic chromatic analysis
+B09,0.681,0.434,right flank high,automatic chromatic analysis
+B10,0.699,0.399,right flank low,automatic chromatic analysis
+B11,0.588,0.390,center right,automatic chromatic analysis
+B12,0.070,0.378,far left,automatic chromatic analysis
+B13,0.446,0.332,lower center,automatic chromatic analysis
+B14,0.334,0.268,lower left,automatic chromatic analysis
+B15,0.513,0.188,bottom center,automatic chromatic analysis
+B16,0.778,0.131,bottom right,automatic chromatic analysis
