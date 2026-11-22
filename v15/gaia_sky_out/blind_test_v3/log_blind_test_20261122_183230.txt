@@ -1,0 +1,41 @@
+18:32:31  INFO    Hipparcos letto dalla copia locale hipparcos_hp6.0.ecsv (4559 stelle).
+18:32:31  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+18:32:31  INFO    Costellazioni con almeno 15 stelle utilizzabili: 83
+18:32:34  INFO    rilevati15: dipinto vs Dragone  d=0.0839 (da 25 al) | solo 400-600 al: d=0.0891 (da 400 al)
+18:34:06  INFO       [rilevati15/uniforme] 50/200 (92 s)
+18:35:40  INFO       [rilevati15/uniforme] 100/200 (186 s)
+18:37:08  INFO       [rilevati15/uniforme] 150/200 (275 s)
+18:38:34  INFO       [rilevati15/uniforme] 200/200 (360 s)
+18:38:34  INFO       rilevati15 / uniforme: p(Dragone, tutte le distanze) = 0.065  [casuali mediana 0.1083] | p(Dragone, 400-600 al) = 0.035  [casuali mediana 0.1353]
+18:40:11  INFO       [rilevati15/a_coppie] 50/200 (97 s)
+18:41:44  INFO       [rilevati15/a_coppie] 100/200 (191 s)
+18:43:19  INFO       [rilevati15/a_coppie] 150/200 (285 s)
+18:44:53  INFO       [rilevati15/a_coppie] 200/200 (379 s)
+18:44:53  INFO       rilevati15 / a_coppie: p(Dragone, tutte le distanze) = 0.095  [casuali mediana 0.1131] | p(Dragone, 400-600 al) = 0.040  [casuali mediana 0.1373]
+18:44:53  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+18:44:53  INFO    Costellazioni con almeno 14 stelle utilizzabili: 84
+18:44:55  INFO    repo14: dipinto vs Dragone  d=0.0641 (da 50 al) | solo 400-600 al: d=0.1209 (da 400 al)
+18:46:20  INFO       [repo14/uniforme] 50/200 (84 s)
+18:47:45  INFO       [repo14/uniforme] 100/200 (170 s)
+18:49:14  INFO       [repo14/uniforme] 150/200 (258 s)
+18:50:39  INFO       [repo14/uniforme] 200/200 (344 s)
+18:50:39  INFO       repo14 / uniforme: p(Dragone, tutte le distanze) = 0.015  [casuali mediana 0.1043] | p(Dragone, 400-600 al) = 0.418  [casuali mediana 0.1260]
+18:52:13  INFO       [repo14/a_coppie] 50/200 (93 s)
+18:53:42  INFO       [repo14/a_coppie] 100/200 (182 s)
+18:55:10  INFO       [repo14/a_coppie] 150/200 (271 s)
+18:56:38  INFO       [repo14/a_coppie] 200/200 (358 s)
+18:56:38  INFO       repo14 / a_coppie: p(Dragone, tutte le distanze) = 0.015  [casuali mediana 0.1041] | p(Dragone, 400-600 al) = 0.433  [casuali mediana 0.1242]
+18:56:38  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+18:56:38  INFO    Costellazioni con almeno 16 stelle utilizzabili: 78
+18:56:40  INFO    repo16: dipinto vs Dragone  d=0.0903 (da 100 al) | solo 400-600 al: d=0.1121 (da 400 al)
+18:58:16  INFO       [repo16/uniforme] 50/200 (96 s)
+18:59:52  INFO       [repo16/uniforme] 100/200 (192 s)
+19:01:29  INFO       [repo16/uniforme] 150/200 (289 s)
+19:03:05  INFO       [repo16/uniforme] 200/200 (385 s)
+19:03:05  INFO       repo16 / uniforme: p(Dragone, tutte le distanze) = 0.219  [casuali mediana 0.1011] | p(Dragone, 400-600 al) = 0.249  [casuali mediana 0.1319]
+19:04:44  INFO       [repo16/a_coppie] 50/200 (98 s)
+19:06:22  INFO       [repo16/a_coppie] 100/200 (196 s)
+19:08:02  INFO       [repo16/a_coppie] 150/200 (297 s)
+19:09:42  INFO       [repo16/a_coppie] 200/200 (396 s)
+19:09:42  INFO       repo16 / a_coppie: p(Dragone, tutte le distanze) = 0.114  [casuali mediana 0.1114] | p(Dragone, 400-600 al) = 0.169  [casuali mediana 0.1360]
+19:09:42  INFO    FATTO.

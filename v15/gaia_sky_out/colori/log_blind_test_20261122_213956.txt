@@ -1,0 +1,8 @@
+21:39:56  INFO    Hipparcos letto dalla copia locale hipparcos_hp6.0.ecsv (4559 stelle).
+21:39:56  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+21:39:56  INFO    Costellazioni con almeno 12 stelle utilizzabili: 86
+21:47:38  INFO    verde (12 punti): miglior Corona Australis d=0.0510 da 25 al, p=0.317 | posizioni {'Draco': 28, 'Lyra': 84} su 86
+21:47:38  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+21:47:38  INFO    Costellazioni con almeno 16 stelle utilizzabili: 78
+21:55:54  INFO    giallo (16 punti): miglior Pavo d=0.0755 da 400 al, p=0.901 | posizioni {'Draco': 69, 'Lyra': 60} su 78
+21:55:54  INFO    FATTO

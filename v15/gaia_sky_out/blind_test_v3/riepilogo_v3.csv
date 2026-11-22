@@ -1,0 +1,7 @@
+insieme,n_nodi,coppie,modello,miglior,d,da_ly,null_mediana,null_min,p,draco_pos,draco_d,draco_p,prove
+rilevati15,15,4,uniforme,Aquila,0.06322,25.0,0.06285,0.041,0.5075,24,0.08395,0.9801,200
+rilevati15,15,4,a_coppie,Aquila,0.06322,25.0,0.06625,0.03038,0.4279,24,0.08395,0.9403,200
+repo14,14,3,uniforme,Draco,0.06414,50.0,0.06162,0.03145,0.6219,1,0.06414,0.6219,200
+repo14,14,3,a_coppie,Draco,0.06414,50.0,0.06325,0.02872,0.5174,1,0.06414,0.5174,200
+repo16,16,3,uniforme,Microscopium,0.07261,25.0,0.06508,0.03888,0.7761,15,0.09029,0.995,200
+repo16,16,3,a_coppie,Microscopium,0.07261,25.0,0.06963,0.04082,0.6269,15,0.09029,0.9602,200

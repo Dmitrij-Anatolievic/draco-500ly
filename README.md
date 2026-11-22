@@ -2,6 +2,18 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19319995.svg)](https://doi.org/10.5281/zenodo.19319995)
 
+> **⚠️ v15 (November 2026): the main result of v14 is RETRACTED.**
+> A corrected test (real Hipparcos stars, order-independent Procrustes matching,
+> the full search repeated on random point sets) finds no evidence that the painting
+> reproduces Draco or any other constellation: the 15 blue dashes behave like random
+> points (p = 0.43–0.51), and even against Draco alone the result is not significant
+> and not specific (6th of 83 constellations, p = 0.059). The "quadruple exposure"
+> claims do not hold either. `blind_test_88.py` is kept only as a record of the old,
+> flawed method (order-dependent matching, placeholder star coordinates).
+> Code, data, results and logs of the corrected analysis are in [`v15/`](v15/README.md).
+>
+> **⚠️ v15 (novembre 2026): il risultato principale della v14 è RITIRATO.** Dettagli in [`v15/`](v15/README.md).
+
 **EXPLORATORY RESEARCH — hypothesis-generating, not hypothesis-testing.**
 
 A 2017 acrylic painting, derived from recurring dreams, encodes the geometry 

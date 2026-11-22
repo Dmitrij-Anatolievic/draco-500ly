@@ -1,0 +1,24 @@
+17:24:59  INFO    Cartella: /home/claude/out/gaia_sky_out/blind_test_v3  | log: log_blind_test_20261122_172459.txt
+17:25:00  INFO    Hipparcos letto dalla copia locale hipparcos_hp6.0.ecsv (4559 stelle).
+17:25:00  INFO    ======================================================================
+17:25:00  INFO    INSIEME rilevati15: 15 nodi
+17:25:00  INFO      coppie strette nel dipinto: 0  []  (distanze [])
+17:25:00  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+17:25:00  INFO    Costellazioni con almeno 15 stelle utilizzabili: 83
+17:25:51  INFO      598066 forme (83 costellazioni x 7801 punti di vista) in 51 s
+17:29:40  INFO      ricerca per costellazione: 228 s
+17:29:40  INFO        1. Aquila             d=0.0632  da   25 al (RA  77.1 Dec +17.2)  | dalla Terra d=0.1607
+17:29:40  INFO        2. Pisces Austrinus   d=0.0683  da   25 al (RA 149.7 Dec +19.4)  | dalla Terra d=0.1310
+17:29:40  INFO        3. Serpens            d=0.0698  da  200 al (RA 181.7 Dec -70.3)  | dalla Terra d=0.2460
+17:29:40  INFO        4. Norma              d=0.0702  da  100 al (RA  22.8 Dec +35.6)  | dalla Terra d=0.1638
+17:29:40  INFO        5. Ophiucus           d=0.0715  da   25 al (RA  15.8 Dec -15.4)  | dalla Terra d=0.1024
+17:29:40  INFO        6. Phoenix            d=0.0718  da   25 al (RA 238.3 Dec -15.6)  | dalla Terra d=0.1305
+17:29:40  INFO        7. Andromeda          d=0.0722  da   25 al (RA  69.4 Dec +13.0)  | dalla Terra d=0.1364
+17:29:40  INFO        8. Ara                d=0.0737  da   25 al (RA 106.0 Dec +60.7)  | dalla Terra d=0.1333
+17:29:40  INFO       Dragone: posizione 24 su 83, d=0.0839 da 25 al
+17:29:50  INFO       rilevati15 / uniforme: casuali min 0.0592 mediana 0.0646 | dipinto 0.0632 (Aquila) -> p = 0.600 | Dragone p = 0.800
+17:30:00  INFO       rilevati15 / a_coppie: casuali min 0.0567 mediana 0.0692 | dipinto 0.0632 (Aquila) -> p = 0.600 | Dragone p = 0.800
+17:30:00  INFO    ======================================================================
+17:30:00  INFO      rilevati15  uniforme  miglior Aquila       d=0.0632  p=0.600 | Dragone pos 24 p=0.800
+17:30:00  INFO      rilevati15  a_coppie  miglior Aquila       d=0.0632  p=0.600 | Dragone pos 24 p=0.800
+17:30:00  INFO    FATTO. File in /home/claude/out/gaia_sky_out/blind_test_v3
