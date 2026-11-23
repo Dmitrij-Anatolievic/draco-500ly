@@ -1,6 +1,18 @@
 # Draco at 500 Light-Years
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19319995.svg)](https://doi.org/10.5281/zenodo.19319995)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24459203.svg)](https://doi.org/10.5281/zenodo.24459203)
+
+> **⚠️ v15 (November 2026): the main result of v14 is RETRACTED.**
+> A corrected test (real Hipparcos stars, order-independent Procrustes matching,
+> the full search repeated on random point sets) finds no evidence that the painting
+> reproduces Draco or any other constellation: the 15 blue dashes behave like random
+> points (p = 0.43–0.51), and even against Draco alone the result is not significant
+> and not specific (6th of 83 constellations, p = 0.059). The "quadruple exposure"
+> claims do not hold either. `blind_test_88.py` is kept only as a record of the old,
+> flawed method (order-dependent matching, placeholder star coordinates).
+> Code, data, results and logs of the corrected analysis are in [`v15/`](v15/README.md).
+>
+> **⚠️ v15 (novembre 2026): il risultato principale della v14 è RITIRATO.** Dettagli in [`v15/`](v15/README.md).
 
 **EXPLORATORY RESEARCH — hypothesis-generating, not hypothesis-testing.**
 
@@ -27,6 +39,14 @@ python blind_test_88.py
 
 ## Preprint (DOI)
 
+**Current version (v15):**  
+Musella, D. (2026). *Draco at 500 Light-Years — v15: Retraction of the main result
+of v14 and corrected analysis* (V15). Zenodo.  
+https://doi.org/10.5281/zenodo.24459203
+
+**All versions (always resolves to the latest):** https://doi.org/10.5281/zenodo.19319994
+
+**Previous version (v14, main result retracted):**  
 Musella, D. (2026). *Draco at 500 Light-Years: A Blind Computational Test 
 on 15 Major Constellations (v14)*. Zenodo.  
 https://doi.org/10.5281/zenodo.19319995

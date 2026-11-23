@@ -1,0 +1,112 @@
+17:30:16  INFO    Cartella: /home/claude/out/gaia_sky_out/blind_test_v3  | log: log_blind_test_20261122_173016.txt
+17:30:16  INFO    Hipparcos letto dalla copia locale hipparcos_hp6.0.ecsv (4559 stelle).
+17:30:16  INFO    ======================================================================
+17:30:16  INFO    INSIEME rilevati15: 15 nodi
+17:30:16  INFO      coppie strette nel dipinto: 4  [(1, 2), (5, 6), (7, 8), (10, 11)]  (distanze [0.043, 0.041, 0.043, 0.032])
+17:30:16  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+17:30:16  INFO    Costellazioni con almeno 15 stelle utilizzabili: 83
+17:31:12  INFO      598066 forme (83 costellazioni x 7801 punti di vista) in 56 s
+17:34:59  INFO      ricerca per costellazione: 226 s
+17:34:59  INFO        1. Aquila             d=0.0632  da   25 al (RA  77.1 Dec +17.2)  | dalla Terra d=0.1607
+17:34:59  INFO        2. Pisces Austrinus   d=0.0683  da   25 al (RA 149.7 Dec +19.4)  | dalla Terra d=0.1310
+17:34:59  INFO        3. Serpens            d=0.0698  da  200 al (RA 181.7 Dec -70.3)  | dalla Terra d=0.2460
+17:34:59  INFO        4. Norma              d=0.0702  da  100 al (RA  22.8 Dec +35.6)  | dalla Terra d=0.1638
+17:34:59  INFO        5. Ophiucus           d=0.0715  da   25 al (RA  15.8 Dec -15.4)  | dalla Terra d=0.1024
+17:34:59  INFO        6. Phoenix            d=0.0718  da   25 al (RA 238.3 Dec -15.6)  | dalla Terra d=0.1305
+17:34:59  INFO        7. Andromeda          d=0.0722  da   25 al (RA  69.4 Dec +13.0)  | dalla Terra d=0.1364
+17:34:59  INFO        8. Ara                d=0.0737  da   25 al (RA 106.0 Dec +60.7)  | dalla Terra d=0.1333
+17:34:59  INFO       Dragone: posizione 24 su 83, d=0.0839 da 25 al
+17:35:52  INFO       [rilevati15/uniforme] 25/200 (restano ~6 min)
+17:36:44  INFO       [rilevati15/uniforme] 50/200 (restano ~5 min)
+17:37:37  INFO       [rilevati15/uniforme] 75/200 (restano ~4 min)
+17:38:31  INFO       [rilevati15/uniforme] 100/200 (restano ~4 min)
+17:39:25  INFO       [rilevati15/uniforme] 125/200 (restano ~3 min)
+17:40:19  INFO       [rilevati15/uniforme] 150/200 (restano ~2 min)
+17:41:14  INFO       [rilevati15/uniforme] 175/200 (restano ~1 min)
+17:42:09  INFO       [rilevati15/uniforme] 200/200 (restano ~0 min)
+17:42:09  INFO       rilevati15 / uniforme: casuali min 0.0410 mediana 0.0629 | dipinto 0.0632 (Aquila) -> p = 0.507 | Dragone p = 0.980
+17:43:09  INFO       [rilevati15/a_coppie] 25/200 (restano ~7 min)
+17:44:12  INFO       [rilevati15/a_coppie] 50/200 (restano ~6 min)
+17:45:13  INFO       [rilevati15/a_coppie] 75/200 (restano ~5 min)
+17:46:14  INFO       [rilevati15/a_coppie] 100/200 (restano ~4 min)
+17:47:13  INFO       [rilevati15/a_coppie] 125/200 (restano ~3 min)
+17:48:14  INFO       [rilevati15/a_coppie] 150/200 (restano ~2 min)
+17:49:15  INFO       [rilevati15/a_coppie] 175/200 (restano ~1 min)
+17:50:15  INFO       [rilevati15/a_coppie] 200/200 (restano ~0 min)
+17:50:15  INFO       rilevati15 / a_coppie: casuali min 0.0304 mediana 0.0663 | dipinto 0.0632 (Aquila) -> p = 0.428 | Dragone p = 0.940
+17:50:15  INFO    ======================================================================
+17:50:15  INFO    INSIEME repo14: 14 nodi
+17:50:15  INFO      coppie strette nel dipinto: 3  [(1, 2), (5, 6), (7, 8)]  (distanze [0.022, 0.04, 0.039])
+17:50:15  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+17:50:15  INFO    Costellazioni con almeno 14 stelle utilizzabili: 84
+17:51:06  INFO      609126 forme (84 costellazioni x 7801 punti di vista) in 51 s
+17:54:37  INFO      ricerca per costellazione: 211 s
+17:54:37  INFO        1. Draco              d=0.0641  da   50 al (RA 352.8 Dec -28.4)  | dalla Terra d=0.1992
+17:54:37  INFO        2. Aquila             d=0.0674  da   25 al (RA  69.4 Dec +13.0)  | dalla Terra d=0.1640
+17:54:37  INFO        3. Serpens            d=0.0684  da  200 al (RA 201.8 Dec -66.2)  | dalla Terra d=0.3083
+17:54:37  INFO        4. Andromeda          d=0.0686  da  150 al (RA  24.2 Dec -76.3)  | dalla Terra d=0.1440
+17:54:37  INFO        5. Hydrus             d=0.0699  da  300 al (RA 178.5 Dec +65.3)  | dalla Terra d=0.1443
+17:54:37  INFO        6. Norma              d=0.0710  da  500 al (RA  85.9 Dec +57.7)  | dalla Terra d=0.1944
+17:54:37  INFO        7. Lyra               d=0.0743  da  150 al (RA  87.3 Dec -45.1)  | dalla Terra d=0.1378
+17:54:37  INFO        8. Dorado             d=0.0756  da   75 al (RA 271.2 Dec +76.3)  | dalla Terra d=0.1710
+17:54:37  INFO       Dragone: posizione 1 su 84, d=0.0641 da 50 al
+17:55:29  INFO       [repo14/uniforme] 25/200 (restano ~6 min)
+17:56:22  INFO       [repo14/uniforme] 50/200 (restano ~5 min)
+17:57:14  INFO       [repo14/uniforme] 75/200 (restano ~4 min)
+17:58:06  INFO       [repo14/uniforme] 100/200 (restano ~3 min)
+17:59:00  INFO       [repo14/uniforme] 125/200 (restano ~3 min)
+17:59:52  INFO       [repo14/uniforme] 150/200 (restano ~2 min)
+18:00:43  INFO       [repo14/uniforme] 175/200 (restano ~1 min)
+18:01:34  INFO       [repo14/uniforme] 200/200 (restano ~0 min)
+18:01:34  INFO       repo14 / uniforme: casuali min 0.0314 mediana 0.0616 | dipinto 0.0641 (Draco) -> p = 0.622 | Dragone p = 0.622
+18:02:34  INFO       [repo14/a_coppie] 25/200 (restano ~7 min)
+18:03:32  INFO       [repo14/a_coppie] 50/200 (restano ~6 min)
+18:04:31  INFO       [repo14/a_coppie] 75/200 (restano ~5 min)
+18:05:26  INFO       [repo14/a_coppie] 100/200 (restano ~4 min)
+18:06:24  INFO       [repo14/a_coppie] 125/200 (restano ~3 min)
+18:07:23  INFO       [repo14/a_coppie] 150/200 (restano ~2 min)
+18:08:23  INFO       [repo14/a_coppie] 175/200 (restano ~1 min)
+18:09:21  INFO       [repo14/a_coppie] 200/200 (restano ~0 min)
+18:09:21  INFO       repo14 / a_coppie: casuali min 0.0287 mediana 0.0632 | dipinto 0.0641 (Draco) -> p = 0.517 | Dragone p = 0.517
+18:09:21  INFO    ======================================================================
+18:09:21  INFO    INSIEME repo16: 16 nodi
+18:09:21  INFO      coppie strette nel dipinto: 3  [(1, 2), (6, 7), (8, 9)]  (distanze [0.022, 0.04, 0.039])
+18:09:21  INFO    Stelle con parallasse affidabile (plx/err >= 5): 4324 su 4559
+18:09:21  INFO    Costellazioni con almeno 16 stelle utilizzabili: 78
+18:10:14  INFO      560499 forme (78 costellazioni x 7801 punti di vista) in 52 s
+18:13:44  INFO      ricerca per costellazione: 210 s
+18:13:44  INFO        1. Microscopium       d=0.0726  da   25 al (RA 257.2 Dec -46.2)  | dalla Terra d=0.1604
+18:13:44  INFO        2. Ara                d=0.0734  da   25 al (RA 130.7 Dec +51.7)  | dalla Terra d=0.1394
+18:13:44  INFO        3. Aries              d=0.0760  da   25 al (RA 262.4 Dec +24.9)  | dalla Terra d=0.1547
+18:13:44  INFO        4. Canis Major        d=0.0789  da   25 al (RA 257.7 Dec +32.3)  | dalla Terra d=0.1497
+18:13:44  INFO        5. Pegasus            d=0.0811  da   25 al (RA 339.7 Dec +20.2)  | dalla Terra d=0.1051
+18:13:44  INFO        6. Capricornus        d=0.0812  da   75 al (RA 145.6 Dec -19.4)  | dalla Terra d=0.2071
+18:13:44  INFO        7. Corona Borealis    d=0.0829  da   25 al (RA  87.3 Dec -45.1)  | dalla Terra d=0.1294
+18:13:44  INFO        8. Canes Venatici     d=0.0832  da  300 al (RA  51.9 Dec -61.0)  | dalla Terra d=0.1049
+18:13:44  INFO       Dragone: posizione 15 su 78, d=0.0903 da 100 al
+18:14:45  INFO       [repo16/uniforme] 25/200 (restano ~7 min)
+18:15:44  INFO       [repo16/uniforme] 50/200 (restano ~6 min)
+18:16:43  INFO       [repo16/uniforme] 75/200 (restano ~5 min)
+18:17:42  INFO       [repo16/uniforme] 100/200 (restano ~4 min)
+18:18:43  INFO       [repo16/uniforme] 125/200 (restano ~3 min)
+18:19:42  INFO       [repo16/uniforme] 150/200 (restano ~2 min)
+18:20:43  INFO       [repo16/uniforme] 175/200 (restano ~1 min)
+18:21:46  INFO       [repo16/uniforme] 200/200 (restano ~0 min)
+18:21:46  INFO       repo16 / uniforme: casuali min 0.0389 mediana 0.0651 | dipinto 0.0726 (Microscopium) -> p = 0.776 | Dragone p = 0.995
+18:22:47  INFO       [repo16/a_coppie] 25/200 (restano ~7 min)
+18:23:52  INFO       [repo16/a_coppie] 50/200 (restano ~6 min)
+18:24:56  INFO       [repo16/a_coppie] 75/200 (restano ~5 min)
+18:25:59  INFO       [repo16/a_coppie] 100/200 (restano ~4 min)
+18:27:00  INFO       [repo16/a_coppie] 125/200 (restano ~3 min)
+18:28:06  INFO       [repo16/a_coppie] 150/200 (restano ~2 min)
+18:29:13  INFO       [repo16/a_coppie] 175/200 (restano ~1 min)
+18:30:14  INFO       [repo16/a_coppie] 200/200 (restano ~0 min)
+18:30:14  INFO       repo16 / a_coppie: casuali min 0.0408 mediana 0.0696 | dipinto 0.0726 (Microscopium) -> p = 0.627 | Dragone p = 0.960
+18:30:15  INFO    ======================================================================
+18:30:15  INFO      rilevati15  uniforme  miglior Aquila       d=0.0632  p=0.507 | Dragone pos 24 p=0.980
+18:30:15  INFO      rilevati15  a_coppie  miglior Aquila       d=0.0632  p=0.428 | Dragone pos 24 p=0.940
+18:30:15  INFO      repo14      uniforme  miglior Draco        d=0.0641  p=0.622 | Dragone pos 1 p=0.622
+18:30:15  INFO      repo14      a_coppie  miglior Draco        d=0.0641  p=0.517 | Dragone pos 1 p=0.517
+18:30:15  INFO      repo16      uniforme  miglior Microscopium d=0.0726  p=0.776 | Dragone pos 15 p=0.995
+18:30:15  INFO      repo16      a_coppie  miglior Microscopium d=0.0726  p=0.627 | Dragone pos 15 p=0.960
+18:30:15  INFO    FATTO. File in /home/claude/out/gaia_sky_out/blind_test_v3
