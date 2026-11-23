@@ -1,5 +1,7 @@
 # v15 — corrected analysis / analisi corretta
 
+Preprint v15: https://doi.org/10.5281/zenodo.24459203 (all versions: https://doi.org/10.5281/zenodo.19319994)
+
 Everything in this folder reproduces the numbers of v15. Fixed random seeds; logs of every run in `gaia_sky_out/`.
 Tutto in questa cartella riproduce i numeri della v15. Semi casuali fissi; i log di ogni esecuzione sono in `gaia_sky_out/`.
 
